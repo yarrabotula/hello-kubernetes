@@ -23,7 +23,7 @@ import (
 
 // Greet returns a pleasant greeting.
 func Greet(name string) string {
-	return fmt.Sprintf("Hello %s&!hello", name)
+	return fmt.Sprintf("Hello %s&!hello%%%%%%%%", name)
 }
 
 func main() {
